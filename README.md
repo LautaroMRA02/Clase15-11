@@ -7,12 +7,15 @@
 ----
 **Equipo 10**: 
             - Aguero Luis
+            
             - Aguilar Eduardo Alfredo
+            
             - Cortes Virginia Aman
+            
             - Rivadero Aquino Lautaro Marcelo
+            
             - Travia Joaquin
-
-**Email**: techaguilareduardo@gmail.com
+            
 
 **Comisión**: 2167.
 
