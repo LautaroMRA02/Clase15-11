@@ -47,7 +47,8 @@ def puntosSubcampeon():
 
 
 
-#Ejercicio Extra b): Escribir una funcion que reciba un string(el cual representara el nombre de una empresa) y devuelve por salida estandar(usando print) los 3 caracteres mas usados en un orden descendiente. Ejemplo. "Codo a Codo" Debe imprimir:
+#Ejercicio Extra b): Escribir una funcion que reciba un string(el cual representara el nombre de una empresa) y devuelve por salida
+# estandar(usando print) los 3 caracteres mas usados en un orden descendiente. Ejemplo. "Codo a Codo" Debe imprimir:
 '''
 o 4
 c 2
